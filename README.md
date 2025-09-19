@@ -36,9 +36,6 @@ Disciplina e aprendizado contínuo são meus pilares. Além disso, sou músico e
 │── imagens/ # Fotos e trabalhos realizados
 │── README.md # Documentação do projeto
 
-yaml
-Copiar código
-
 ---
 
 ## 📞 Contato
