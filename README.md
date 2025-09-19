@@ -71,19 +71,6 @@ Disciplina e aprendizado contínuo são meus pilares. Além disso, sou músico e
 - **Trabalhos realizados** → Exemplos de projetos concluídos.  
 - **Habilidades** → Tecnologias e linguagens que domino.  
 - **Contato** → Botão direto para WhatsApp, facilitando solicitações de serviços.  
-
----
-
-## 📂 Estrutura de arquivos
-/
-│── index.html # Estrutura principal do portfólio
-│── style.css # Estilos e design
-│── imagens/ # Fotos e trabalhos realizados
-│── README.md # Documentação do projeto
-
-yaml
-Copiar código
-
 ---
 
 ## 📞 Contato
